@@ -1,0 +1,27 @@
+{
+    "name": "agritoken",
+    "version": "1.0.0",
+    "description": "A decentralized platform promoting sustainable agriculture where farmers can tokenize their crops.",
+    "main": "server/index.js",
+    "scripts": {
+      "start": "node server/index.js",
+      "dev": "nodemon server/index.js",
+      "client": "cd src && npm start"
+    },
+
+    "dependencies": {
+      "express": "^4.17.1",
+      "@solana/web3.js": "^1.9.0",
+      "dotenv": "^10.0.0",
+      "mongoose": "^6.0.5",
+      "cors": "^2.8.5",
+      "body-parser": "^1.19.0",
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "react-scripts": "^4.0.3"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.7"
+    }
+  }
+  

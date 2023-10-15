@@ -1,0 +1,11 @@
+{
+    "short_name": "AgriToken",
+    "name": "AgriToken - Sustainable Agriculture Platform",
+    "description": "Platform for supporting sustainable agriculture with tokenized crop futures.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#f7f7f7",
+    "theme_color": "#34a853",
+    "icons": []
+  }
+  
